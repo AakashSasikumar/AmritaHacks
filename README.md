@@ -6,7 +6,7 @@ Few programs that make life at Amrita easier
 Scraper:**
 
 1.     
-Required ui4j library
+The [ui4j](https://github.com/ui4j/ui4j) library is required
 
 2.     
 Fill in your username and password
