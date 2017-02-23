@@ -18,5 +18,5 @@ Fill out the date, and execute it.
 A daypass for that date will be requested
 
 5.     
-A gui interface and home pass support will be
+A gui and home pass support will be
 provided later on
